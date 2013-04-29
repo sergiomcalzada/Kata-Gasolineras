@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gasolineras.Lib", "Gasolineras.Lib\Gasolineras.Lib.csproj", "{6FB437E6-57E0-46E4-86EC-157F96E795F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gasolineras.Test", "Gasolineras.Test\Gasolineras.Test.csproj", "{48866439-F922-41DF-B1CD-6DE277EA833A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FB437E6-57E0-46E4-86EC-157F96E795F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FB437E6-57E0-46E4-86EC-157F96E795F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FB437E6-57E0-46E4-86EC-157F96E795F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FB437E6-57E0-46E4-86EC-157F96E795F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48866439-F922-41DF-B1CD-6DE277EA833A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48866439-F922-41DF-B1CD-6DE277EA833A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48866439-F922-41DF-B1CD-6DE277EA833A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48866439-F922-41DF-B1CD-6DE277EA833A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
